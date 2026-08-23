@@ -15,7 +15,7 @@
 </a><a href="https://sinta.kemdiktisaintek.go.id/authors/profile/6201790">
 <img src="https://img.shields.io/badge/SINTA-6201790-6366F1?style=for-the-badge"/>
 </a><a href="https://github.com/erymuchy">
-<img src="https://img.shields.io/badge/GITHUB-erymuchy-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-erymuchyar-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a><br><br>
 
 <img src="https://komarev.com/ghpvc/?username=erymuchy&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/></div>---
